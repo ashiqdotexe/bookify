@@ -19,7 +19,7 @@ Bookify is a Retrieval-Augmented Generation (RAG) based application that allows 
 
 ## 📸 Demo Screenshots
 
-> Add your demo screenshots below this section. You can upload screenshots in your GitHub repo and reference them like this:
+
 
 ![Upload PDF](demo/upload.png)
 ![Ask Questions](demo/qa.png)
