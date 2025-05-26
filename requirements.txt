@@ -1,0 +1,20 @@
+fastapi
+uvicorn
+python-dotenv
+langchain_openai
+langchain 
+langchain-google-firestore 
+firestore 
+langchain_google_vertexai
+sentence_transformers 
+pinecone
+langchain_pinecone
+langchain_huggingface
+PyPDF2
+pymupdf
+wikipedia
+langchain_google_genai
+streamlit==1.45.1
+langchain_groq 
+pypdf==5.5.0 
+#pip install -r requirements.txt

@@ -1,0 +1,6 @@
+GOOGLE_API_KEY=https://shorturl.at/ybGmR
+PINECONE_API_KEY=https://shorturl.at/ROhJ6
+PINECONE_ENVIRONMENT=us-east-1
+GROQ_API_KEY=https://shorturl.at/aQt5t
+HF_TOKEN=https://shorturl.at/Iyv5a
+OPENAI_API_KEY=https://shorter.me/V9bQ2
