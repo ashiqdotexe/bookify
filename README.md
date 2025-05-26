@@ -72,7 +72,7 @@ streamlit run bookify.py --server.fileWatcherType none
 For any feedback or suggestions, feel free to reach out:
 
 - 📧 Email: [ashiqurrahman.sohan.muslim@gmail.com](mailto:ashiqurrahman.sohan.muslim@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Name](https://www.linkedin.com/in/hmashiqurrahman/)
+- 💼 LinkedIn: [HM Ashiqur Rahman](https://www.linkedin.com/in/hmashiqurrahman/)
 
 ---
 
